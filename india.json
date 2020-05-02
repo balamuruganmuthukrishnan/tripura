@@ -1,5 +1,6 @@
 [
-    {"link": :"https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true",
+    {
+      "link": "https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true",
      "update":02-05-2020
     },
     {

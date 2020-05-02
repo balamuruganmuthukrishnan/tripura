@@ -3,7 +3,8 @@
       "region": "Andaman and Nicobar Islands",
       "totalInfected": 33,
       "recovered": 16,
-      "deceased": 0
+      "deceased": 0,
+      "uptime" : "02-05-2020"
     },
     {
       "region": "Andhra Pradesh",

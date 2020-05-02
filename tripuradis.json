@@ -1,7 +1,7 @@
 [
  {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"NORTH TRIPURA","Kasus_Posi":1.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"UNOKOTI","Kasus_Posi":0.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"DHALAI","Kasus_Posi":0.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"DHALAI","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"KHOWAI","Kasus_Posi":0.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"GOMATI","Kasus_Posi":1.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"WEST TRIPURA","Kasus_Posi":0.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},

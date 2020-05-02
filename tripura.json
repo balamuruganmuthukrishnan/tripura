@@ -1,64 +1,8 @@
 [
   { 
-    "sconformed": "2", 
-    "sactive": "0", 
+    "sconformed": "4", 
+    "sactive": "2", 
     "srecoverd": "2", 
     "sdeath":  "0"
-  },
-  { 
-    "dis": "NORTH TRIPURA", 
-    "conformed": "1", 
-    "active": "0", 
-    "recoverd": "1", 
-    "death":  "0"
-  },
-  { 
-    "dis": "UNOKOTI", 
-    "conformed": "0", 
-    "active": "0", 
-    "recoverd": "0", 
-    "death":  "0"
-  },
-  { 
-    "dis": "DHALAI", 
-    "conformed": "0", 
-    "active": "0", 
-    "recoverd": "0", 
-    "death":  "0"
-  },
-  { 
-    "dis": "KHOWAI", 
-    "conformed": "0", 
-    "active": "0", 
-    "recoverd": "0", 
-    "death":  "0"
-  },
-  { 
-    "dis": "GOMATI", 
-    "conformed": "1", 
-    "active": "0", 
-    "recoverd": "1", 
-    "death":  "0"
-  },
-  { 
-    "dis": "WEST TRIPURA", 
-    "conformed": "0", 
-    "active": "0", 
-    "recoverd": "0", 
-    "death":  "0"
-  },
-  { 
-    "dis": "SIPAHIJALA", 
-    "conformed": "0", 
-    "active": "0", 
-    "recoverd": "", 
-    "death":  "0"
-  },
-  { 
-    "dis": "SOUTH TRIPURA", 
-    "conformed": "0", 
-    "active": "0", 
-    "recoverd": "0", 
-    "death":  "0"
   }
  ]

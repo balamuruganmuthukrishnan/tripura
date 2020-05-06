@@ -1,6 +1,4 @@
-list of the referral hospitals
-{"name":"rtiics -kolkata",
-"des":"tripura","lan":"23.940800,91.988200"},
+{"name":"rtiics -kolkata","des":"tripura","lan":"23.940800,91.988200"},
 {"name":"  medica super specialty hospital,kolkata",
 "des":"tripura","lan":"23.940800,91.988200""},
  {"name":" saroj gupta cancer centre welfare home and research centre",
@@ -49,8 +47,7 @@ list of the referral hospitals
 "des":"tripura","lan":"23.940800,91.988200"},
  {"name":" lv prasad hospital hyderabad",
 "des":"tripura","lan":"23.940800,91.988200"},
-  
-list of the hospital which have entered into agreement with the thasp are as follows 
+
   {"name":" rtllcs kolkata ",
 "des":"tripura","lan":"23.940800,91.988200"},
  {"name":"  medica super specialty hospital kolkata",
@@ -71,4 +68,6 @@ list of the hospital which have entered into agreement with the thasp are as fol
 "des":"tripura","lan":"23.940800,91.988200"},
   {"name":" indo american cancer centre hospitl hyderabad",
 "des":"tripura","lan":"23.940800,91.988200"},
-   {"name":"nnc kolkata."},
+   {"name":"nnc kolkata",
+"des":"tripura","lan":"23.940800,91.988200"}
+]

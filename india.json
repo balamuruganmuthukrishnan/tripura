@@ -149,7 +149,7 @@
       "region": "Puducherry",
       "totalInfected": 26,
       "recovered": 10,
-      "deceased": null
+      "deceased": 0
     },
     {
       "region": "Punjab",

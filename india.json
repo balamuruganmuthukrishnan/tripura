@@ -1,23 +1,15 @@
 [
-    {
+     {
       "region": "Andaman and Nicobar Islands",
       "totalInfected": 33,
-      "recovered": 16,
-      "deceased": 0,
-      "uptime" : " 06-05-2020-12-20.pm",
-      "link" : "https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true"
-    },
-    {
-      "region": "Andaman and Nicobar Islands",
-      "totalInfected": 33,
-      "recovered": 32,
+      "recovered": 33,
       "deceased": 0
     },
     {
       "region": "Andhra Pradesh",
-      "totalInfected": 1717,
-      "recovered": 589,
-      "deceased": 36
+      "totalInfected": 2757,
+      "recovered": 1809,
+      "deceased": 56
     },
     {
       "region": "Arunachal Pradesh",
@@ -27,182 +19,200 @@
     },
     {
       "region": "Assam",
-      "totalInfected": 43,
-      "recovered": 32,
-      "deceased": 1
-    },
-    {
-      "region": "Bihar",
-      "totalInfected": 536,
-      "recovered": 142,
+      "totalInfected": 329,
+      "recovered": 55,
       "deceased": 4
     },
     {
+      "region": "Bihar",
+      "totalInfected": 2380,
+      "recovered": 653,
+      "deceased": 11
+    },
+    {
       "region": "Chandigarh",
-      "totalInfected": 111,
-      "recovered": 21,
-      "deceased": 1
+      "totalInfected": 225,
+      "recovered": 179,
+      "deceased": 3
     },
     {
       "region": "Chhattisgarh",
-      "totalInfected": 59,
-      "recovered": 36,
+      "totalInfected": 214,
+      "recovered": 64,
       "deceased": 0
     },
     {
       "region": "Dadar Nagar Haveli",
-      "totalInfected": 1,
+      "totalInfected": 2,
       "recovered": 0,
       "deceased": 0
     },
     {
       "region": "Delhi",
-      "totalInfected": 5104,
-      "recovered": 1468,
-      "deceased": 64
+      "totalInfected": 12910,
+      "recovered": 6267,
+      "deceased": 231
     },
     {
       "region": "Goa",
-      "totalInfected": 7,
-      "recovered": 7,
+      "totalInfected": 55,
+      "recovered": 16,
       "deceased": 0
     },
     {
       "region": "Gujarat",
-      "totalInfected": 6245,
-      "recovered": 1381,
-      "deceased": 368
+      "totalInfected": 13664,
+      "recovered": 6169,
+      "deceased": 829
     },
     {
       "region": "Haryana",
-      "totalInfected": 548,
-      "recovered": 256,
-      "deceased": 6
+      "totalInfected": 1131,
+      "recovered": 750,
+      "deceased": 16
     },
     {
       "region": "Himachal Pradesh",
-      "totalInfected": 42,
-      "recovered": 38,
-      "deceased": 2
-    },
-    {
-      "region": "Jammu and Kashmir",
-      "totalInfected": 741,
-      "recovered": 320,
-      "deceased": 8
-    },
-    {
-      "region": "Jharkhand",
-      "totalInfected": 125,
-      "recovered": 33,
+      "totalInfected": 185,
+      "recovered": 61,
       "deceased": 3
     },
     {
+      "region": "Jammu and Kashmir",
+      "totalInfected": 1569,
+      "recovered": 774,
+      "deceased": 21
+    },
+    {
+      "region": "Jharkhand",
+      "totalInfected": 350,
+      "recovered": 141,
+      "deceased": 4
+    },
+    {
       "region": "Karnataka",
-      "totalInfected": 671,
-      "recovered": 331,
-      "deceased": 29
+      "totalInfected": 1959,
+      "recovered": 608,
+      "deceased": 42
     },
     {
       "region": "Kerala",
-      "totalInfected": 502,
-      "recovered": 462,
+      "totalInfected": 795,
+      "recovered": 515,
       "deceased": 4
     },
     {
       "region": "Ladakh",
-      "totalInfected": 41,
-      "recovered": 17,
+      "totalInfected": 49,
+      "recovered": 43,
       "deceased": 0
     },
     {
       "region": "Madhya Pradesh",
-      "totalInfected": 3049,
-      "recovered": 1000,
-      "deceased": 176
+      "totalInfected": 6371,
+      "recovered": 3267,
+      "deceased": 281
     },
     {
       "region": "Maharashtra",
-      "totalInfected": 15525,
-      "recovered": 2819,
-      "deceased": 617
+      "totalInfected": 47190,
+      "recovered": 13404,
+      "deceased": 1577
     },
     {
       "region": "Manipur",
-      "totalInfected": 2,
-      "recovered": 2,
+      "totalInfected": 29,
+      "recovered": 4,
       "deceased": 0
     },
     {
       "region": "Meghalaya",
-      "totalInfected": 12,
-      "recovered": 10,
+      "totalInfected": 14,
+      "recovered": 12,
       "deceased": 1
     },
     {
       "region": "Mizoram",
       "totalInfected": 1,
-      "recovered": 0,
+      "recovered": 1,
       "deceased": 0
     },
     {
       "region": "Odisha",
-      "totalInfected": 175,
-      "recovered": 60,
-      "deceased": 1
+      "totalInfected": 1269,
+      "recovered": 497,
+      "deceased": 7
     },
     {
       "region": "Puducherry",
-      "totalInfected": 9,
-      "recovered": 6,
-      "deceased": 0
+      "totalInfected": 26,
+      "recovered": 10,
+      "deceased": null
     },
     {
       "region": "Punjab",
-      "totalInfected": 1451,
-      "recovered": 133,
-      "deceased": 25
+      "totalInfected": 2045,
+      "recovered": 1870,
+      "deceased": 39
     },
     {
       "region": "Rajasthan",
-      "totalInfected": 3158,
-      "recovered": 1525,
-      "deceased": 89
+      "totalInfected": 6742,
+      "recovered": 3786,
+      "deceased": 160
+    },
+    {
+      "region": "Sikkim",
+      "totalInfected": 1,
+      "recovered": 0,
+      "deceased": 0
     },
     {
       "region": "Tamil Nadu",
-      "totalInfected": 4058,
-      "recovered": 1485,
-      "deceased": 33
+      "totalInfected": 15512,
+      "recovered": 7491,
+      "deceased": 103
     },
     {
       "region": "Telengana",
-      "totalInfected": 1096,
-      "recovered": 585,
-      "deceased": 29
+      "totalInfected": 1813,
+      "recovered": 1065,
+      "deceased": 49
     },
     {
       "region": "Tripura",
-      "totalInfected": 43,
-      "recovered": 2,
+      "totalInfected": 189,
+      "recovered": 153,
       "deceased": 0
     },
     {
       "region": "Uttarakhand",
-      "totalInfected": 61,
-      "recovered": 39,
-      "deceased": 1
+      "totalInfected": 244,
+      "recovered": 56,
+      "deceased": 2
     },
     {
       "region": "Uttar Pradesh",
-      "totalInfected": 2880,
-      "recovered": 987,
-      "deceased": 56
+      "totalInfected": 6017,
+      "recovered": 3406,
+      "deceased": 155
     },
     {
       "region": "West Bengal",
-      "totalInfected": 1344,
-      "recovered": 364,
-      "deceased": 140
+      "totalInfected": 3459,
+      "recovered": 1281,
+      "deceased": 269
+    },
+    {
+      "region": "Cases being reassigned to states",
+      "totalInfected": 2338,
+      "recovered": 0,
+      "deceased": 0
+    },
+    {
+      "region": "Total#",
+      "totalInfected": 131868,
+      "recovered": 54441,
+      "deceased": 3867
     }
 ]

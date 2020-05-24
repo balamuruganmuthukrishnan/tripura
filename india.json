@@ -212,11 +212,5 @@
       "totalInfected": 2338,
       "recovered": 0,
       "deceased": 0
-    },
-    {
-      "region": "Total#",
-      "totalInfected": 131868,
-      "recovered": 54441,
-      "deceased": 3867
     }
 ]

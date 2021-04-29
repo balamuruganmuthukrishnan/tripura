@@ -1,21 +1,13 @@
 [
      {
       "region": "Andaman and Nicobar Islands",
-      "totalInfected": 33,
-      "recovered": 33,
-      "deceased": 0,
-      "link":"https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true",
-      "uptime":"25-06-2020"
-    },
-       {
-      "region": "Andaman and Nicobar Islands",
       "totalInfected": 143,
-      "newInfected": 7,
       "recovered": 5606,
-      "newRecovered": 44,
       "deceased": 67,
-      "newDeceased": 1
+      "link":"https://api.apify.com/v2/key-value-stores/toDWvRj1JpTXiM8FF/records/LATEST?disableRedirect=true",
+      "uptime":"29-04-2021"
     },
+       
     {
       "region": "Andhra Pradesh",
       "totalInfected": 107611,

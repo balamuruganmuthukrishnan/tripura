@@ -1,4 +1,5 @@
 [
+  {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Dindigul","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Thiruvallur","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Ranipet","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Vellore","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
@@ -8,11 +9,36 @@
  {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Tiruvannamalai","Kasus_Posi":5.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":17,"Kode_Provi":51,"Provinsi":"Tirupathur","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  
- {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Thiruvallur","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Ranipet","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Vellore","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Chennai","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Kancheepuram","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Chengalpattu","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Tiruvannamalai","Kasus_Posi":5.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}}
+ {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Viluppuram","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Krishnagiri","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Dharmapuri","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Kallakurichi","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Cuddalore","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Salem","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Perambalur","Kasus_Posi":5.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ 
+  {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Ariyalur","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Nagapattinam","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Thanjavur","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Erode","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Namakkal","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Tiruchirappalli","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ 
+   {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Nilgiris","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Coimbatore","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Tiruppur","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Karur","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Pudukkottai","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Thiruvarur","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ 
+ {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Madurai","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Theni","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Sivagangai","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Ramanathapuram","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Virudhunagar","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Thoothukkudi","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ 
+   {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Tenkasi","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Tirunelveli","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Kanyakumari","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}}
  ]

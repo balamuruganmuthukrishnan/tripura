@@ -6,5 +6,13 @@
  {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Kancheepuram","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Chengalpattu","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
  {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Tiruvannamalai","Kasus_Posi":5.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
- {"attributes":{"FID":17,"Kode_Provi":51,"Provinsi":"Tirupathur","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}}
+ {"attributes":{"FID":17,"Kode_Provi":51,"Provinsi":"Tirupathur","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ 
+ {"attributes":{"FID":11,"Kode_Provi":31,"Provinsi":"Thiruvallur","Kasus_Posi":5.0,"Kasus_Semb":5.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":15,"Kode_Provi":35,"Provinsi":"Ranipet","Kasus_Posi":1.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":12,"Kode_Provi":32,"Provinsi":"Vellore","Kasus_Posi":164.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":13,"Kode_Provi":33,"Provinsi":"Chennai","Kasus_Posi":2.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":27,"Kode_Provi":73,"Provinsi":"Kancheepuram","Kasus_Posi":6.0,"Kasus_Semb":1.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Chengalpattu","Kasus_Posi":6.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}},
+ {"attributes":{"FID":16,"Kode_Provi":36,"Provinsi":"Tiruvannamalai","Kasus_Posi":5.0,"Kasus_Semb":0.0,"Kasus_Meni":0.0}}
  ]
